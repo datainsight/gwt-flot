@@ -50,15 +50,6 @@ import com.symantec.gwt.flot.client.pie.Slice;
 /**
  * Parent class for all types of Flot charts
  * @param <D> {@link ChartFragment}
- */
-/**
- * @author Amey_Sakhadeo
- *
- * @param <D>
- */
-/**
- * @author Amey_Sakhadeo
- *
  * @param <D>
  */
 public abstract class Flot<D extends ChartFragment> implements Plotable
