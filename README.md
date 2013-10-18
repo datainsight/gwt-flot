@@ -2,10 +2,6 @@ gwt-flot
 ========
 A GWT Wrapper for the [Flot](https://github.com/flot/flot) Javascript library
 
-_Nothing to see here. We will be pushing the code soon_
-
-License
--------
-This library is available under the MIT license 
+__Note: We are not accepting patches as of now.__
 
 
